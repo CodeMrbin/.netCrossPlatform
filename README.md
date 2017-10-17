@@ -1,4 +1,4 @@
-# .netCrossPlatform
+# Explain
 Sorry, I don't understand English, so please translate it by yourself
 # 说明
 这个项目的初衷是实现.net现有优秀技术及框架的整合，打破.net无法开发互联网应用的悖论。打造一个高性能，高可维护，跨平台的.net架构，
